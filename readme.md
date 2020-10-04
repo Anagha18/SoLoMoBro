@@ -1,6 +1,6 @@
 This is the code to ClusterCreate written by Siddarth Karki, Anagha M Anil Kumar and Karan Panjabi.
 
-This readme will help you in the set up of the tool to run un Linux machines, the code to get it running on Android is situated [a link](https://github.com/Anagha18/SoLoMoBro_Server), which has a seperate Readme.
+This readme will help you in the set up of the tool to run un Linux machines, the code to get it running on Android is situated [here](https://github.com/Anagha18/SoLoMoBro_Server) and [here](https://github.com/Anagha18/SoLoMoBro_Client) , which has a seperate Readme.
 
 Please follow the follwing instructions for the setup:
 
